@@ -8,7 +8,7 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Alex 👋</h1>
+        <h1 className={styles.title}>Hi, I'm Alex Jaegook Kim 👋</h1>
         <p className={styles.description}>
             I'm a ML Software Engineer at Apple 🍎. Passionate about learning and helping others! Feel free to reach out!
         </p>

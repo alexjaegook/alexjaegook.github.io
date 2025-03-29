@@ -33,7 +33,7 @@ export const About = () => {
                     />
                     <div className={styles.aboutItemText}>
                         <h3>Education</h3>
-                        <p>I went to Georgia Tech where I completed by Bachelor's in Computer Science and Master's in Machine Learning.</p>
+                        <p>I went to Georgia Tech where I completed my Bachelor's in Computer Science and Master's in Machine Learning.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>

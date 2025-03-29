@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Machine Learning",
+        "imageSrc": "/assets/skills/machine_learning.png"
+    },
+    {
+        "title": "Natural Language Processing",
+        "imageSrc": "/assets/skills/nlp.png"
+    },
+    {
+        "title": "Data Processing",
+        "imageSrc": "/assets/skills/data_processing.png"
+    },
+    {
+        "title": "Research in AI and Education",
+        "imageSrc": "/assets/skills/innovation.png"
+    },
+    {
+        "title": "Backend Development",
+        "imageSrc": "/assets/skills/backend.png"
+    },
+    {
+        "title": "Data Analysis and Visualization",
+        "imageSrc": "/assets/skills/web-analytics.png"
+    }
+]

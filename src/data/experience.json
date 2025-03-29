@@ -1,0 +1,35 @@
+[
+    {
+      "role": "ML Software Engineer",
+      "organisation": "Apple",
+      "startDate": "Jun 2025",
+      "endDate": "Present",
+      "experiences": ["Part of Knowledge Platform team optimizing search for Apple products like Siri and Spotlight"],
+      "imageSrc": "/assets/experience/apple_logo.png"
+    },
+    {
+      "role": "Instructional Associate/Teaching Assistant",
+      "organisation": "Georgia Tech",
+      "startDate": "Aug 2019",
+      "endDate": "Present",
+      "experiences": ["Instructor for CS 6515 Graduate Algorithms (Aug 2022 - Present) and  CS 1301 Computing in Python (Aug 2019 - May 2020, Aug 2022 - Aug 2023)", "Instructing and assessing 1300+ masters students each semester interested in ML and algorithms", " Integrated auto-personalized feedback system to enhance coding techniques and learning for over 5000 students","Held weekly office hours (3 hours), graded homework, answered student questions on Piazza"],
+      "imageSrc": "/assets/experience/GT_logo.png"
+    },
+    {
+      "role": "ML Software Engineer Intern",
+      "organisation": "Zoox",
+      "startDate": "Sep 2024",
+      "endDate": "Dec 2024",
+      "experiences": ["Worked in the High Performance Computing team, optimizing resource utilizations for training deep learning models", " Designed an ETL pipeline, processing 2M daily logs and created dashboards to analyze ML model resource utilization", "Improved KPI retrieval speed by 5x by adding new API endpoints and creating fields to streamline data access", "Implemented a 85% cache-hit rate data registry to optimize number of requests to cloud and server storage"],
+      "imageSrc": "/assets/experience/zoox_logo.png"
+    },
+    {
+      "role": "Data Scientist Intern",
+      "organisation": "Volvo Group",
+      "startDate": "May 2024",
+      "endDate": "Aug 2024",
+      "experiences": ["Worked in the Test and Automation team, creating internal tools to automate vehicle testing protocols", "Architected an ORM-based database system handling 200+ regulations, automating vehicle compliance verification", "Reduced CAN data processing time by 10% for vehicle testing with query optimizations and bulk copies", " Created real-time dashboards tracking 1,000+ vehicle tests, enabling testers to quickly identify bottlenecks"],
+      "imageSrc": "/assets/experience/volvo_logo.png"
+    }
+
+]
