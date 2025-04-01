@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Detecting Counterfeit Products on Amazon",
+        "imageSrc": "/assets/projects/counterfeit_product_icon.png",
+        "description": "Fine-tuned BERT and Llama2 on 2,000 Amazon products and 300,000 reviews to classify counterfeit product",
+        "skills":["NLP", "LLM", "Counterfeit Detection"],
+        "demo": "/assets/projects/demo/counterfeit_project.pdf",
+        "code": "https://github.com/alexjaegook/CounterfeitDetection"
+    },
+    {
+        "title": "Predicting Flight Delays",
+        "imageSrc": "/assets/projects/flight_delay_icon.png",
+        "description": "Deployed an 86% accuracy random forest model by curating and training on a 500,000 flight and weather dataset",
+        "skills":["ML", "ETL Pipeline", "Data Analysis/Visuals"],
+        "demo": "/assets/projects/demo/flight_delay_report.pdf",
+        "code": "https://github.com/ninaadlakshman/AeroForecast",
+        "poster": "/assets/projects/demo/flight_delay_poster.pdf"
+    },
+    {
+        "title": "Hateful Content Detection in Memes",
+        "imageSrc": "/assets/projects/hateful_meme_icon.png",
+        "description": "Designed DL models using BERT, GPT2, XLNet, and ResNet with 60% accuracy determining hateful text/images",
+        "skills":["NLP", "Deep Learning", "Hateful Content Detection"],
+        "demo": "/assets/projects/demo/hateful_content_paper.pdf",
+        "code": "https://github.com/alexjaegook/Hateful-Meme-Challenge"
+    },
+    {
+        "title": "HBCU and GT Collaboration Initiative",
+        "imageSrc": "/assets/projects/hbcu_icon.png",
+        "description": " Led the new academic collaboration initiative between 13 HBCUs and GT to promote educational equality",
+        "skills":["Tableau", "AI in Education", "Leadership"],
+        "demo": "/assets/projects/demo/HBCU_paper.pdf",
+        "poster": "/assets/projects/demo/HBCU_poster.pdf"
+    },
+    {
+        "title": "Predicting Heart Attack Patients",
+        "imageSrc": "/assets/projects/heart_attack_icon.png",
+        "description": "Created an 88% accuracy decision tree model and authored a 5-page analysis on predicting heart attack patients",
+        "skills":["ML", "Matplotlib", "Sklearn"],
+        "demo": "/assets/projects/demo/heart_attack_paper.pdf",
+        "code": "https://github.com/alexjaegook/Predicting-Heart-Attack-Patients"
+    },
+    {
+        "title": "Optimizing LLM with ML Databases",
+        "imageSrc": "/assets/projects/evadb_icon.png",
+        "description": "Integrate EvaDB and Embedchain as data platforms to create interactive LLM powered bots using OpenAI API",
+        "skills":["ML Database", "LLM", "Chatbot"],
+        "demo": "/assets/projects/demo/evadb_paper.pdf",
+        "code": "https://github.com/alexjaegook/EvaDBInEmbedchain"
+    }
+]
